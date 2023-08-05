@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261515580441",
+    "firebase_url": "https://vehiclets-2f0bc-default-rtdb.firebaseio.com",
+    "project_id": "vehiclets-2f0bc",
+    "storage_bucket": "vehiclets-2f0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261515580441:android:262a7d9476e30524e6c688",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261515580441-fo81nrhmsm364u13qjgt55vakecviea0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVgFVo81A-uUjwaVnlH6NHYGlGQZ9MoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261515580441-fo81nrhmsm364u13qjgt55vakecviea0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
